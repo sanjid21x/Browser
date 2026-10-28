@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Brave Downloader</string>
+    <string name="search_placeholder">Search or type web address</string>
+    <string name="brave_shields">Brave Shields</string>
+    <string name="idm_download">Download Video</string>
+    <string name="downloads">Downloads</string>
+    <string name="tabs">Tabs</string>
+    <string name="history">History</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="settings">Settings</string>
+</resources>
